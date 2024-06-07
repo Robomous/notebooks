@@ -7,3 +7,12 @@ This repository was created by [robomous.ai](https://robomous.ai) to support its
 # Robomous.ai
 
 Robomous is an educational platform that offers courses on robotics, artificial intelligence, and programming. Our goal is to provide high-quality content to students, teachers, and professionals who want to learn about these topics. We offer courses in English and Spanish. Our platform is free and open to everyone.
+
+## Blog post notebooks
+
+Index of the notebooks used in the blog posts of 2024.
+
+- [Getting started with OpenCV in Python](2024/Getting_started_with_OpenCV_in_Python.ipynb)
+
+
+All the content is available at [robomous.ai](https://robomous.ai).
